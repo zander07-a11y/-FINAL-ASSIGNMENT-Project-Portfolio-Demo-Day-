@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+
+    <title>My Landing Page</title>
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="https://alexander66-space.w3spaces.com/saved-from-Tryit-2024-08-07-kcyj4.html#ilam62353@gmail.com">Home</a></li>
+                <li><a href="https://github.com/zander07-a11y/AlexanderIlam-Bio-Readme">News</a></li>
+                <li><a href="ilam62353@gmail.com">Contact</a></li>
+                <li><a href="https://www.linkedin.com/in/alexander-ilam-2b9b9231a/">About</a></li>
+                <li><a href="https://dash.generalassemb.ly/AlexanderIlam/build-your-own-blog-theme">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <div class="container">
+        <h1>Welcome to My Landing Page</h1>
+        <p>This is a simple landing page created with HTML and CSS.</p>
+        <button>Learn More Down Below</button>
+
+        <main>
+            <h2>Introduction</h2>
+            <p>Hi, I'm Alexander Ilam. I'm a 17-year-old upcoming senior at Newark Collegiate Academy in Newark, New
+                Jersey. I'm really into technology, especially machine learning and data analysis and exploring how it
+                can be used to solve problems..</p>
+            <img src="https://t3.ftcdn.net/jpg/02/13/74/10/240_F_213741013_qEmPTT6NqRHTFAKw3pOVGiyH69Nn0k5h.jpg"
+                alt="Image Description">
+        </main>
+    </div>
+
+    <footer>
+        <b>Contact<br>
+            <a>ilam62353@gmail.com</a><br>
+            <a
+                href="https://github.com/zander07-a11y/AlexanderIlam-Bio-Readme">https://github.com/zander07-a11y/AlexanderIlam-Bio-Readme</a>
+            <a
+                href="https://www.linkedin.com/in/alexander-ilam-2b9b9231a/">https://www.linkedin.com/in/alexander-ilam-2b9b9231a</a>
+            <br>
+            <p>&copy; 2024 Alexander's Landing Page. All rights reserved.</ p>
+            <p>Designed by A.Z.I</p>
+    </footer>
+</body>
+
+</html>
