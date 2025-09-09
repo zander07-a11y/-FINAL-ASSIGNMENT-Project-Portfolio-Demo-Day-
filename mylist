@@ -1,0 +1,2 @@
+mylist = ["house", "buy", "phone", "hit", "sean", "alexander", "drink", "melon"]
+print(mylist[7])
